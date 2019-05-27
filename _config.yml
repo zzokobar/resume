@@ -24,15 +24,19 @@ instagram_username: https://www.instagram.com/supd_/
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: /assets/image/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  2018.04 ~ 	   바바그룹 힙합퍼 / 스토어팀 MD/대리 - 스토어 운영 및 영업 계획 수립
+  2015.11 ~ 2017.12  ㈜스타일쉐어 / 커머스팀 MD - SNS기반 모바일 커머스 런칭 멤버
+  2014.08 ~ 2015.09  AWEHEAD / 사원 - Web,App 신규 플랫폼 기획 및 운영
+  2005.03 ~ 2013.02  한성대학교 – 영어영문학
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+    - 패션, 잡화 등 카테고리 상품기획 온라인 MD 실무 경력
+    - 홀세일 비즈니스 플래닝 및 판매, 각종 채널을 이용한 상품 판매 운영 경험
+    - e커머스 사업 기획, 영업, 매출 신장 전략 수립 및 관리
+    - 다양한 브랜드들과의 협업 경험
+    - 신규 사이트, 어플리케이션 UI, UX 구축 및 리뉴얼 기획 경험
+
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
