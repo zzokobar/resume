@@ -34,7 +34,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   2014.08 ~ 2015.09  AWEHEAD / 사원 - Web,App 신규 플랫폼 기획 및 운영
 
-  
+
   2005.03 ~ 2013.02  한성대학교 – 영어영문학
 
     - 패션, 잡화 등 카테고리 상품기획 온라인 MD 실무 경력
@@ -56,9 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  취미 및 특기
+  - 여행, 바이올린 연주
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
