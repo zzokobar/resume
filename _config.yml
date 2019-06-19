@@ -26,13 +26,19 @@ instagram_username: https://www.instagram.com/supd_/
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /assets/image/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  2018.04 ~ 	   바바그룹 힙합퍼 / 스토어팀 MD/대리 - 스토어 운영 및 영업 계획 수립
+  2018.04 ~ 	   바바그룹 힙합퍼 / 스토어팀 MD/대리 
+  
+  - 스토어 운영 및 영업 계획 수립
 
 
-  2015.11 ~ 2017.12  ㈜스타일쉐어 / 커머스팀 MD - SNS기반 모바일 커머스 런칭 멤버
+  2015.11 ~ 2017.12  ㈜스타일쉐어 / 커머스팀 MD 
+  
+  - SNS기반 모바일 커머스 런칭 멤버
 
 
-  2014.08 ~ 2015.09  AWEHEAD / 사원 - Web,App 신규 플랫폼 기획 및 운영
+  2014.08 ~ 2015.09  AWEHEAD / 사원 
+  
+  - Web,App 신규 플랫폼 기획 및 운영
 
 
   2005.03 ~ 2013.02  한성대학교 – 영어영문학
@@ -57,6 +63,7 @@ about_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   [준비된 러너(learner)]
+
   새로이 경험하는 것에 적극적이고 배움에 두려움이 없습니다.
 
   온라인 커머스 비즈니스를 접하며 동료 개발자들의 작업에 관심을 갖고 직접 배우고자 하였습니다. 이를 위해 친분이 있는 개발자에게 개인적으로 프로그래밍에 관한 강습을 받기도 했습니다. 
@@ -67,6 +74,7 @@ more_content: | # this will include new lines to allow paragraphs
   
   
   [전세계 시장을 개척하는 패션매니아]
+
   MD가 아닌 소비자로서 저는 쇼핑 스페셜리스트라고 스스로 감히 말할 수 있습니다.
 
   ‘멋’이라는 것에 대한 갈망으로 저는 누구보다 다양한 구매 경험을 겪었습니다.
@@ -85,6 +93,7 @@ more_content: | # this will include new lines to allow paragraphs
   
   
   [분석과 직관을 거쳐 고객만족으로]
+  
   시장을 면밀히 분석하여 다양한 고객경험을 제공하고 싶습니다.
 
   저는 스타일쉐어 재직시절 MD로서 업체 관리, 판매상품 소싱 뿐만 아니라, 런칭 초기 미완의 형태였던 스토어 디자인과 기능의 발전을 위한 아이디어 회의에 참여하여 많은 의견을 제시하였습니다. 
@@ -97,7 +106,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   저는 서비스의 특징을 정확히 이해하고, 그 안에서 새로운 수단을 생각해내어 곧 긍정적인 고객 경험으로 이어지게 할 수 있습니다.
   
-  
+
   취미 및 특기
 
   - 여행, 바이올린 연주
