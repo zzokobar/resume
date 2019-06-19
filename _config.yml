@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  준비된 러너(learner):
+  *준비된 러너(learner):
 
   새로이 경험하는 것에 적극적이고 배움에 두려움이 없습니다.
 
