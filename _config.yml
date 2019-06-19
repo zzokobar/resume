@@ -25,7 +25,7 @@ instagram_username: https://www.instagram.com/supd_/
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /assets/image/profile.jpg
-about_content: > # this will include new lines to allow paragraphs
+about_content: >- # this will include new lines to allow paragraphs
   2018.04 ~ 	   바바그룹 힙합퍼 / 스토어팀 MD/대리 - 스토어 운영 및 영업 계획 수립
   2015.11 ~ 2017.12  ㈜스타일쉐어 / 커머스팀 MD - SNS기반 모바일 커머스 런칭 멤버
   2014.08 ~ 2015.09  AWEHEAD / 사원 - Web,App 신규 플랫폼 기획 및 운영
