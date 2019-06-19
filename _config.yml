@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  [준비된 러너(learner)]
+  - 준비된 러너(learner)
 
   새로이 경험하는 것에 적극적이고 배움에 두려움이 없습니다.
 
@@ -75,7 +75,7 @@ more_content: | # this will include new lines to allow paragraphs
   
 
 
-  [전세계 시장을 개척하는 패션매니아]
+  - 전세계 시장을 개척하는 패션매니아
 
   MD가 아닌 소비자로서 저는 쇼핑 스페셜리스트라고 스스로 감히 말할 수 있습니다.
 
@@ -96,7 +96,7 @@ more_content: | # this will include new lines to allow paragraphs
   
 
 
-  [분석과 직관을 거쳐 고객만족으로]
+  - 분석과 직관을 거쳐 고객만족으로
 
   시장을 면밀히 분석하여 다양한 고객경험을 제공하고 싶습니다.
 
