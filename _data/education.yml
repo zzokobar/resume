@@ -1,9 +1,11 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+  name: 한성대학교
+  dates: 2005.03 ~ 2013.02
+  qualification: 영어영문학
+
+# Education Template
+- layout: left
+  name: 병역
+  dates: 2008.05 ~ 2010.03
+  qualification: 의무경찰

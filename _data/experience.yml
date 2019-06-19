@@ -1,10 +1,27 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: 바바그룹 힙합퍼
+  link: http://www.hiphoper.com/
+  job_title: MD/대리
+  dates: 2018.04 ~ 
   quote: >
-   Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of role
+   스토어 운영 및 영업 계획 수립
+
+
+
+- layout: left
+  company:  ㈜스타일쉐어
+  link: https://www.stylesha.re
+  job_title: 커머스팀 MD
+  dates: 2015.11 ~ 2017.12
+  quote: >
+   SNS기반 모바일 커머스 런칭 멤버
+
+
+- layout: left
+  company: AWEHEAD
+  link: 
+  job_title: 사원
+  dates: 2014.08 ~ 2015.09
+  quote: >
+   Web,App 신규 플랫폼 기획 및 운영
